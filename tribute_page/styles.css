@@ -64,9 +64,11 @@ blockquote {
   text-align: left;
 }
 
-cite {
-  
+.end {
+  margin-top: auto;
+  padding-bottom: 30px;
 }
+
   
   
   
